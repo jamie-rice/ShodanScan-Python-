@@ -17,7 +17,7 @@ from datetime import datetime
 
 #API key obtained from Shodan login dashboard
 #Intilisaing shodan API object, allowing the use of the Shodan library 
-api_key = 'A4nUAZNda1GRGU0dXApja5o3DhFZLuel'
+api_key = 'Enter APIkey here'
 api = shodan.Shodan(api_key)
 
 #initialising datetime object to provide date//time on outputted document containing results
